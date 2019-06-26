@@ -18,7 +18,7 @@ class App extends React.PureComponent{
           <img src={logo} className="App-logo" alt="logo"/>
           <p>
             <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-              Learn React
+              Learn React Anne Marthe
             </a>
           </p>
         </header>
